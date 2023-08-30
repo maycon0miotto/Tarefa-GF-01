@@ -1,4 +1,4 @@
-﻿using MRV.Modas;
+using MRV.Modas;
 using System;
 using System.Collections.Generic;
 
