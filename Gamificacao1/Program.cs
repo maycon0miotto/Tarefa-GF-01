@@ -20,31 +20,31 @@ namespace MRV.Modas
                 Console.WriteLine("5 - Mostrar relatório de vendas");
                 Console.WriteLine("0 - Sair");
                 Console.Write("Escolha uma opção: ");
-                int opcao = int.TryParse(Console.ReadLine());
+                string opcao = Console.ReadLine();
 
                 switch (opcao)
                 {
-                    case 1:
+                    case "1":
                         ProdutoUI produtoUI = new();
                         produtoUI.GerenciarProdutos();
                         break;
-                    case 2:
+                    case "2":
                         CategoriaUI categoriaUI = new();
                         categoriaUI.MenuDeFuncionalidades();
                         break;
-                    case 3:
+                    case "3":
                         ClientesUI clienteUI = new();
                         clienteUI.GerenciarClientes();
                         break;
-                    case 4:
+                    case "4":
                         VendaUI vendaUI = new();
                         vendaUI.RealizarVenda();
                         break;
-                    case 5:
+                    case "5":
                         RelatorioUI relatorioUI = new();
                         relatorioUI.MostrarRelatorioVendas();
                         break;
-                    case 0:
+                    case "0":
                         continuar = false;
                         break;
                     default:
