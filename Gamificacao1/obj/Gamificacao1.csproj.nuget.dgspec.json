@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/vitorhwm/Área de Trabalho/Gamificacao/Tarefa-GF-01/Gamificacao1/Gamificacao1.csproj": {}
+    "/home/vitorhwm/Área de Trabalho/C#/Tarefa-GF-01/Gamificacao1/Gamificacao1.csproj": {}
   },
   "projects": {
-    "/home/vitorhwm/Área de Trabalho/Gamificacao/Tarefa-GF-01/Gamificacao1/Gamificacao1.csproj": {
+    "/home/vitorhwm/Área de Trabalho/C#/Tarefa-GF-01/Gamificacao1/Gamificacao1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vitorhwm/Área de Trabalho/Gamificacao/Tarefa-GF-01/Gamificacao1/Gamificacao1.csproj",
+        "projectUniqueName": "/home/vitorhwm/Área de Trabalho/C#/Tarefa-GF-01/Gamificacao1/Gamificacao1.csproj",
         "projectName": "Gamificacao1",
-        "projectPath": "/home/vitorhwm/Área de Trabalho/Gamificacao/Tarefa-GF-01/Gamificacao1/Gamificacao1.csproj",
+        "projectPath": "/home/vitorhwm/Área de Trabalho/C#/Tarefa-GF-01/Gamificacao1/Gamificacao1.csproj",
         "packagesPath": "/home/vitorhwm/.nuget/packages/",
-        "outputPath": "/home/vitorhwm/Área de Trabalho/Gamificacao/Tarefa-GF-01/Gamificacao1/obj/",
+        "outputPath": "/home/vitorhwm/Área de Trabalho/C#/Tarefa-GF-01/Gamificacao1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vitorhwm/.nuget/NuGet/NuGet.Config"
