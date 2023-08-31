@@ -1,5 +1,7 @@
 Maycon Muniz Miotto
+
 Rafaela Maria A. Moreira
+
 Vitor H. W. Malacarne
 
 Abra o arquivo localizado no diretório indicado utilizando o programa Visual Studio 2022 Community Edition. Abra o arquivo "Gamificacao1.csproj" na pasta "Tarefa-GF-01-main\Tarefa-GF-01-main". 
