@@ -17,7 +17,7 @@ namespace MRV.Modas
         public double Total
         {
             get
-            {//LINQ
+            {
                 try
                 {
                     return produtos!.Sum(p => p.Subtotal);
